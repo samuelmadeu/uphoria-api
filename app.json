@@ -1,0 +1,10 @@
+{
+  "name": "uphoria-api",
+  "description": "A backend for uphoria-api",
+  "keywords": [
+    "matches",
+    "go",
+  ],
+  "website": "http://github.com/tanaka/uphoria-api",
+  "repository": "http://github.com/tanaka/uphoria-api"
+}
